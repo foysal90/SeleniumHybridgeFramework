@@ -1,0 +1,10 @@
+com/learnAutomation/dataProvider/dataProvider.class
+com/learnAutonmation/factory/BrowserFactory.class
+com/learnAutomation/dataProvider/excelReader.class
+com/learnAutomation/helper/utility.class
+com/learnAutomation/pages/loginPage.class
+com/learnAutomation/dataProvider/customDataProvider.class
+com/learnAutomation/dataProvider/testData.class
+com/learnAutomation/dataProvider/configReader.class
+com/learnAutomation/constants/constants.class
+com/learnAutomation/helper/baseClass.class
